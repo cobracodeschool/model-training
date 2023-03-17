@@ -1,0 +1,20 @@
+{"prompt": "What is the attendance record for employee 001, Emily Wilson?\n\n###\n\n", "completion": " Emily Wilson was absent on 2022-03-14, 2022-03-15, and 2022-03-16. END"}
+{"prompt": "What is the attendance record for employee 002, David Lee?\n\n###\n\n", "completion": " David Lee was late on 2022-03-14 and 2022-03-15, and present on 2022-03-16. END"}
+{"prompt": "What is the attendance record for employee 003, Karen Chen?\n\n###\n\n", "completion": " Karen Chen was present on 2022-03-14 and 2022-03-15, and absent on 2022-03-16. END"}
+{"prompt": "What is the attendance record for employee 004, John Smith?\n\n###\n\n", "completion": " John Smith was present on 2022-03-14, absent on 2022-03-15, and late on 2022-03-16. END"}
+{"prompt": "What is the attendance record for employee 005, Jane Doe?\n\n###\n\n", "completion": " Jane Doe was present on 2022-03-14, 2022-03-15, and 2022-03-16. END"}
+{"prompt": "What is the attendance record for employee 006, Alex Brown?\n\n###\n\n", "completion": " Alex Brown was present on 2022-03-14 and 2022-03-16, and absent on 2022-03-15. END"}
+{"prompt": "What is the attendance record for employee 007, Tom Jones?\n\n###\n\n", "completion": " Tom Jones was absent on 2022-03-14 and 2022-03-15, and present on 2022-03-16. END"}
+{"prompt": "What is the attendance record for employee 008, Sarah Lee?\n\n###\n\n", "completion": " Sarah Lee was absent on 2022-03-14 and present on 2022-03-15 and 2022-03-16. END"}
+{"prompt": "What is the attendance record for employee 009, Michael Kim?\n\n###\n\n", "completion": " Michael Kim was present on 2022-03-14 and 2022-03-16, and absent on 2022-03-15. END"}
+{"prompt": "What is the attendance record for employee 010, Jennifer Chen?\n\n###\n\n", "completion": " Jennifer Chen was present on 2022-03-14 and absent on 2022-03-15 and 2022-03-16. END"}
+{"prompt": "What is the attendance record for employee 011, James Smith?\n\n###\n\n", "completion": " James Smith was late on 2022-03-14 and 2022-03-15, and present on 2022-03-16. END"}
+{"prompt": "What is the attendance record for employee 012, Samantha Lee?\n\n###\n\n", "completion": " Samantha Lee was absent on 2022-03-14, late on 2022-03-15, and present on 2022-03-16. END"}
+{"prompt": "What is the attendance record for employee 013, Emma Wilson?\n\n###\n\n", "completion": " Emma Wilson was present on 2022-03-14 and absent on 2022-03-15 and 2022-03-16. END"}
+{"prompt": "What is the attendance record for employee 014, Matthew Davis?\n\n###\n\n", "completion": " Matthew Davis was present on 2022-03-14, absent on 2022-03-15, and late on 2022-03-16. END"}
+{"prompt": "What is the attendance record for employee 015, Rachel Kim?\n\n###\n\n", "completion": " Rachel Kim was absent on 2022-03-14 and present on 2022-03-15 and 2022-03-16. END"}
+{"prompt": "What is the attendance record for employee 016, Andrew Lee?\n\n###\n\n", "completion": " Andrew Lee was present on 2022-03-14 and 2022-03-15, and absent on 2022-03-16. END"}
+{"prompt": "What is the attendance record for employee 017, Michelle Chen?\n\n###\n\n", "completion": " Michelle Chen was present on 2022-03-14, absent on 2022-03-15, and late on 2022-03-16. END"}
+{"prompt": "What is the attendance record for employee 018, Jason Kim?\n\n###\n\n", "completion": " Jason Kim was absent on 2022-03-14, present on 2022-03-15, and late on 2022-03-16. END"}
+{"prompt": "What is the attendance record for employee 019, Emily Davis?\n\n###\n\n", "completion": " Emily Davis was absent on 2022-03-14 and present on 2022-03-15 and 2022-03-16. END"}
+{"prompt": "What is the attendance record for employee 020, Peter Lee?\n\n###\n\n", "completion": " Peter Lee was present on 2022-03-14 and 2022-03-16, and absent on 2022-03-15. END"}
